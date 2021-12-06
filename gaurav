@@ -9,4 +9,5 @@ git commit -m "second commit"
 git branch -M main
 git remote add origin https://github.com/Gaur11av1/new.git
 git push -u origin main
+git status
 
